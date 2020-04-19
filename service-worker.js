@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pharmadelectus-project/precache-manifest.fce50b48f205a77da6655d018dd799e9.js"
+  "/pharmadelectus-project/precache-manifest.21d3ae26b73dde650d80cbc35c6bb462.js"
 );
 
 self.addEventListener('message', (event) => {
