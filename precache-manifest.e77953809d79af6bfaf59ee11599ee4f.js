@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abcb4192e6b7a5a00f601e21fb599cd7",
+    "revision": "5dd653d7fd3099ccd808c621698f3620",
     "url": "/pharmadelectus-project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pharmadelectus-project/static/css/2.e0d768cb.chunk.css"
   },
   {
-    "revision": "8f0ae052e2c6c13491ce",
+    "revision": "e539a2c208987d4e7bc4",
     "url": "/pharmadelectus-project/static/css/main.5d31f29e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pharmadelectus-project/static/js/2.2f1e590d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f0ae052e2c6c13491ce",
-    "url": "/pharmadelectus-project/static/js/main.c0434bb9.chunk.js"
+    "revision": "e539a2c208987d4e7bc4",
+    "url": "/pharmadelectus-project/static/js/main.ff88e73b.chunk.js"
   },
   {
     "revision": "f19f104eca3a7b454596",
