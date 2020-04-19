@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pharmadelectus-project/static/css/main.5d31f29e.chunk.css",
-    "main.js": "/pharmadelectus-project/static/js/main.8039bc78.chunk.js",
-    "main.js.map": "/pharmadelectus-project/static/js/main.8039bc78.chunk.js.map",
+    "main.js": "/pharmadelectus-project/static/js/main.c0434bb9.chunk.js",
+    "main.js.map": "/pharmadelectus-project/static/js/main.c0434bb9.chunk.js.map",
     "runtime-main.js": "/pharmadelectus-project/static/js/runtime-main.06dde6c8.js",
     "runtime-main.js.map": "/pharmadelectus-project/static/js/runtime-main.06dde6c8.js.map",
     "static/css/2.e0d768cb.chunk.css": "/pharmadelectus-project/static/css/2.e0d768cb.chunk.css",
     "static/js/2.2f1e590d.chunk.js": "/pharmadelectus-project/static/js/2.2f1e590d.chunk.js",
     "static/js/2.2f1e590d.chunk.js.map": "/pharmadelectus-project/static/js/2.2f1e590d.chunk.js.map",
     "index.html": "/pharmadelectus-project/index.html",
-    "precache-manifest.e75f929b157f36f5236ea83ad0de3a6c.js": "/pharmadelectus-project/precache-manifest.e75f929b157f36f5236ea83ad0de3a6c.js",
+    "precache-manifest.6380d347eb055a3d537676d693a91d05.js": "/pharmadelectus-project/precache-manifest.6380d347eb055a3d537676d693a91d05.js",
     "service-worker.js": "/pharmadelectus-project/service-worker.js",
     "static/css/2.e0d768cb.chunk.css.map": "/pharmadelectus-project/static/css/2.e0d768cb.chunk.css.map",
     "static/css/main.5d31f29e.chunk.css.map": "/pharmadelectus-project/static/css/main.5d31f29e.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.e0d768cb.chunk.css",
     "static/js/2.2f1e590d.chunk.js",
     "static/css/main.5d31f29e.chunk.css",
-    "static/js/main.8039bc78.chunk.js"
+    "static/js/main.c0434bb9.chunk.js"
   ]
 }
