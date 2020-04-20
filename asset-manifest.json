@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/pharmadelectus-project/static/css/main.5d31f29e.chunk.css",
-    "main.js": "/pharmadelectus-project/static/js/main.1c41eb75.chunk.js",
-    "main.js.map": "/pharmadelectus-project/static/js/main.1c41eb75.chunk.js.map",
+    "main.js": "/pharmadelectus-project/static/js/main.07b79b13.chunk.js",
+    "main.js.map": "/pharmadelectus-project/static/js/main.07b79b13.chunk.js.map",
     "runtime-main.js": "/pharmadelectus-project/static/js/runtime-main.06dde6c8.js",
     "runtime-main.js.map": "/pharmadelectus-project/static/js/runtime-main.06dde6c8.js.map",
     "static/css/2.e0d768cb.chunk.css": "/pharmadelectus-project/static/css/2.e0d768cb.chunk.css",
-    "static/js/2.99f05aad.chunk.js": "/pharmadelectus-project/static/js/2.99f05aad.chunk.js",
-    "static/js/2.99f05aad.chunk.js.map": "/pharmadelectus-project/static/js/2.99f05aad.chunk.js.map",
+    "static/js/2.37b4a1c6.chunk.js": "/pharmadelectus-project/static/js/2.37b4a1c6.chunk.js",
+    "static/js/2.37b4a1c6.chunk.js.map": "/pharmadelectus-project/static/js/2.37b4a1c6.chunk.js.map",
     "index.html": "/pharmadelectus-project/index.html",
-    "precache-manifest.cb55638d4a5ad455cd320042805a2922.js": "/pharmadelectus-project/precache-manifest.cb55638d4a5ad455cd320042805a2922.js",
+    "precache-manifest.69fcf77598e82b10f6caabe25f90f225.js": "/pharmadelectus-project/precache-manifest.69fcf77598e82b10f6caabe25f90f225.js",
     "service-worker.js": "/pharmadelectus-project/service-worker.js",
     "static/css/2.e0d768cb.chunk.css.map": "/pharmadelectus-project/static/css/2.e0d768cb.chunk.css.map",
     "static/css/main.5d31f29e.chunk.css.map": "/pharmadelectus-project/static/css/main.5d31f29e.chunk.css.map",
-    "static/js/2.99f05aad.chunk.js.LICENSE.txt": "/pharmadelectus-project/static/js/2.99f05aad.chunk.js.LICENSE.txt",
+    "static/js/2.37b4a1c6.chunk.js.LICENSE.txt": "/pharmadelectus-project/static/js/2.37b4a1c6.chunk.js.LICENSE.txt",
     "static/media/landingPage.css": "/pharmadelectus-project/static/media/background.c4388ad7.jpg",
     "static/media/logo.png": "/pharmadelectus-project/static/media/logo.3cb7be30.png"
   },
   "entrypoints": [
     "static/js/runtime-main.06dde6c8.js",
     "static/css/2.e0d768cb.chunk.css",
-    "static/js/2.99f05aad.chunk.js",
+    "static/js/2.37b4a1c6.chunk.js",
     "static/css/main.5d31f29e.chunk.css",
-    "static/js/main.1c41eb75.chunk.js"
+    "static/js/main.07b79b13.chunk.js"
   ]
 }
